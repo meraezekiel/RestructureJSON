@@ -1,36 +1,36 @@
 npm install 
 
-npx react-native start
-npx react-native run-android
+npx react-native start <br> 
+npx react-native run-android <br>
 
-node version  v18.0.0
-react-native version 0.72.6  
+node version  v18.0.0 <br>
+react-native version 0.72.6 <br> <br>
 
-ANSWER : 
-      console.log("restructure data ---------",resData)
-      {
-         "status-1":[
-            {
-               "id":1,
-               "name":"John Doe",
-               "status":1
-            },
-            {
-               "id":4,
-               "name":"Luis Rocket",
-               "status":1
-            }
-         ],
-         "status-2":[
-            {
-               "id":2,
-               "name":"Jane Doe",
-               "status":2
-            },
-            {
-               "id":3,
-               "name":"Adam Rocket",
-               "status":2
-            }
-         ]
+ANSWER : <br>
+      console.log("restructure data ---------",resData)<br>
+      {<br>
+         "status-1":[<br>
+            {<br>
+               "id":1,<br>
+               "name":"John Doe",<br>
+               "status":1<br>
+            },<br>
+            {<br>
+               "id":4,<br>
+               "name":"Luis Rocket",<br>
+               "status":1<br>
+            }<br>
+         ],<br>
+         "status-2":[<br>
+            {<br>
+               "id":2,<br>
+               "name":"Jane Doe",<br>
+               "status":2<br>
+            },<br>
+            {<br>
+               "id":3,<br>
+               "name":"Adam Rocket",<br>
+               "status":2<br>
+            }<br>
+         ]<br>
       }
