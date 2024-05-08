@@ -49,4 +49,4 @@ ANSWER : <br>
     
     const resData = restructureJson(sampleData)
 
-      console.log("restructure data ---------",resData)<br>
+      console.log("restructure data ---------",resData)
