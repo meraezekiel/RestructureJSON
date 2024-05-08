@@ -41,7 +41,7 @@ export default function App() {
     
     const resData = restructureJson(sampleData)
 
-    console.log("---------",resData)
+    console.log("restructure data ---------",resData)
     
 
   return (
